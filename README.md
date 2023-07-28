@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyashtul&label=Profile%20views&color=0e75b6&style=flat" alt="codebyashtul" /> </p>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **...**
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on **...**
 
 - 🤝
 
 - 👨‍💻 All of my projects are available at [CodeByAshtul](https://github.com/CodeByAshtul)
 
-- 📝 I regularly write articles on [...](...)
+- 📝 I regularly write articles on **...**
 
-- 💬 Ask me about **I am Ranjeet Ashtul, an accomplished Bachelor of Computer Applications (BCA) graduate with a strong passion for problem-solving and a commitment to continuous learning. I possess excellent teamwork and communication skills, along with a desire to excel in the IT industry. I am ready to embark on a rewarding career and make a valuable contribution to a progressive organization.👨‍💻I am excited about leveraging my skills and knowledge to contribute positively to the IT industry and to work on exciting projects that push the boundaries of technology. I look forward to opportunities that allow me to grow both professionally and personally.**
+- 💬 Ask me about **🚀I am Ranjeet Ashtul, an accomplished 💻 Bachelor of Computer Applications (BCA) graduate with a strong passion for problem-solving and a commitment to continuous learning. 🎉I possess excellent teamwork and communication skills, along with a desire to excel in the IT industry. 🌈I am ready to embark on a rewarding career and make a valuable contribution to a progressive organization.👨‍💻I am excited about leveraging my skills and knowledge to contribute positively to the IT industry and to work on exciting projects📚 that push the boundaries of technology. I look forward to opportunities that allow me to grow both professionally and personally.**
 
 - 📫 How to reach me **ranjeetashhtul6@gmail.com**
 
