@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebyashtul" alt="codebyashtul" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/CodeByAshtul](https://github.com/CodeByAshtul)
+- 👨‍💻 All of my projects are available at [github](https://github.com/CodeByAshtul)
 - 👋 Hi, I'm @CodeByAshtul!
 - 👀 I’m interested in ...   Coding & programming project, Web development, Gaming and listening music. 
 - 🌱 I’m currently learning Completed ...   Bachelor Of Computer Applications (BCA)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 💬 Ask me about ****ABOUT ME** I am Ranjeet Ashtul, an accomplished Bachelor of Computer Applications (BCA) graduate with a strong passion for problem-solving and a commitment to continuous learning. I possess excellent teamwork and communication skills, along with a desire to excel in the IT industry. I am ready to embark on a rewarding career and make a valuable contribution to a progressive organization.
--  👨‍💻I am excited about leveraging my skills and knowledge to contribute positively to the IT industry and to work on exciting projects that push the boundaries of technology. I look forward to opportunities that allow me to grow both professionally and personally.**
+- 💬 Ask me about ... I am Ranjeet Ashtul, an accomplished Bachelor of Computer Applications (BCA) graduate with a strong passion for problem-solving and a commitment to continuous learning. I possess excellent teamwork and communication skills, along with a desire to excel in the IT industry. I am ready to embark on a rewarding career and make a valuable contribution to a progressive organization.
+-  👨‍💻I am excited about leveraging my skills and knowledge to contribute positively to the IT industry and to work on exciting projects that push the boundaries of technology. I look forward to opportunities that allow me to grow both professionally and personally.
 
 - 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFphDkiIMY/OXhloIN7-WuwytkGyuVLww/view?utm_content=DAFphDkiIMY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
