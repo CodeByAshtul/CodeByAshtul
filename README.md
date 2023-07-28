@@ -1,5 +1,10 @@
 ### Hi there 👋
-#7C4EC4
+
+
+
+<img height="32" width="32" src="https://cdn. jsdelivr.net/npm/simple- icons@v3/icons /[ERM nase" P
+<img height="32" width="32" src="https: //unpkg.com/simple-icons@v3/icons/youtub.svg" />
+
 
 <!--
 **CodeByAshtul/CodeByAshtul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
